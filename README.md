@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a pretty competent code monkey & this is where I keep my code. Check out the pinned repos for the good stuff.
+
+#### Secret Repo release schedule:
+- [ ] Coles vs. Woolies
+- [ ] Tiktok Community Garden
+
+If you like my work, the best way you can support is:
+<p><a href="https://www.buymeacoffee.com/matthewtimms"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="147" alt="matthewtimms" /></a></p><br><br>
+
 <!--
 **MattTimms/MattTimms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
