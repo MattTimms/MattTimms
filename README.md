@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a pretty competent code monkey & this is where I keep my code. Check out the pinned repos for the good stuff.
+I'm a pretty competent code monkey & this is where I keep my code.  
+Check out the pinned repos for the good stuff.
 
 #### Secret Repo release schedule:
 - [ ] Coles vs. Woolies
